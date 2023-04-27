@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+
+span {
+    background-color: rgba(149, 149, 149, 0.763);
+    border-radius: 6px;
+}
+
+p {
+    text-align: center;
+    font-family: Lobster;
+
+}
+
+body {
+    background-color: rgb(219, 219, 219);
+}
+#qw {
+    text-align: center;
+    width: 1000px;
+}
+
+a {
+    color: black;
+    font-size: 25px;
+}

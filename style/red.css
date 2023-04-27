@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+}
+
+span {
+    background-color: rgb(194, 0, 0);
+    border-radius: 6px;
+}
+
+p {
+    text-align: center;
+    font-family: Lobster;
+}
+
+body {
+    color: white;
+    background-color: rgb(255, 153, 153);
+}
+#et {
+    width: 800px;
+}
+
+#fd {
+    color: black;
+}
